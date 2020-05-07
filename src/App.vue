@@ -1,10 +1,8 @@
 <template>
   <v-app class="vapp">
-
     <v-content>
       <router-view></router-view>
     </v-content>
-
   </v-app>
 </template>
 
